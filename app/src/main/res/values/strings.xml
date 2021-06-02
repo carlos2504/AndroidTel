@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">telefono</string>
+    <string name="tel_1">Mauricio Camacho 551498637</string>
+    <string name="tel_2">Victoria Casas 553691254</string>
+    <string name="tel_3">Matías Torres 553481255</string>
+    <string name="tel_4">Karla Mondragón 55397841</string>
+    <string name="tel_5">Iván Martínez 558715963</string>
+    <string name="tel_6">Alejandra Ceballos 558935621</string>
+    <string name="Finalizar">Salir</string>
+</resources>
